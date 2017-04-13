@@ -1,4 +1,0 @@
-#Wed Apr 05 09:40:55 ULAST 2017
-base.0=/home/ckt/third_disk/AndroidStudioWorkspace/ZoomAndDrafting/ImageCompare/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
-renamed.0=classes.dex
-file.0=/home/ckt/third_disk/AndroidStudioWorkspace/ZoomAndDrafting/ImageCompare/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

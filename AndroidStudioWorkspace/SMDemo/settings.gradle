@@ -1,2 +1,0 @@
-include ':app', ':CktPlayer', ':CameraBase', ':CameraBase1.0', ':CameraDemo', ':CameraDemo1.0', ':CameraBase1.01', ':CameraBase1.1'
-project(':CameraBase1.1').projectDir = new File('SlowMotion/CameraBase1.1')

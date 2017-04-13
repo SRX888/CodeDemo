@@ -1,7 +1,0 @@
-#Sat Apr 08 00:18:54 ULAST 2017
-base.0=/home/ckt/third_disk/AndroidStudioWorkspace/ZoomAndDrafting/ImageCompare/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_964a92deee1007db3b00ce5cbf730cbd75b792f8
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/ckt/third_disk/AndroidStudioWorkspace/ZoomAndDrafting/ImageCompare/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_45101a9b1547a13df67843ff0488910a287a452a/classes.dex
-base.1=/home/ckt/third_disk/AndroidStudioWorkspace/ZoomAndDrafting/ImageCompare/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_45101a9b1547a13df67843ff0488910a287a452a
-file.0=/home/ckt/third_disk/AndroidStudioWorkspace/ZoomAndDrafting/ImageCompare/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_964a92deee1007db3b00ce5cbf730cbd75b792f8/classes.dex
