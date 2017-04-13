@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ckt/third_disk/AndroidStudioWorkspace/ZoomAndDrafting/ImageCompare/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/ckt/third_disk/AndroidStudioWorkspace/ZoomAndDrafting/ImageCompare/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ckt/third_disk/AndroidStudioWorkspace/ZoomAndDrafting/ImageCompare/build/intermediates/res/merged/debug/mipmap-xhdpi/error.png",
+        "source": "/home/ckt/third_disk/AndroidStudioWorkspace/ZoomAndDrafting/ImageCompare/src/main/res/mipmap-xhdpi/error.png"
+    }
+]

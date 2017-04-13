@@ -1,0 +1,2 @@
+include ':app', ':PicDemo', ':zoomAndDrafting1.0', ':ImageCompare', ':CameraFilter', ':demo', ':CameraFilter1.0', ':CameraFilter2.0'
+include ':zoomAndDrafting'
