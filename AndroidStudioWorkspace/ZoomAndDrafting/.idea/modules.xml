@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CameraFilter/CameraFilter.iml" filepath="$PROJECT_DIR$/CameraFilter/CameraFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CameraFilter1.0/CameraFilter1.0.iml" filepath="$PROJECT_DIR$/CameraFilter1.0/CameraFilter1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CameraFilter2.0/CameraFilter2.0.iml" filepath="$PROJECT_DIR$/CameraFilter2.0/CameraFilter2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageCompare/ImageCompare.iml" filepath="$PROJECT_DIR$/ImageCompare/ImageCompare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PicDemo/PicDemo.iml" filepath="$PROJECT_DIR$/PicDemo/PicDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZoomAndDrafting.iml" filepath="$PROJECT_DIR$/ZoomAndDrafting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoomAndDrafting/zoomAndDrafting.iml" filepath="$PROJECT_DIR$/zoomAndDrafting/zoomAndDrafting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoomAndDrafting1.0/zoomAndDrafting1.0.iml" filepath="$PROJECT_DIR$/zoomAndDrafting1.0/zoomAndDrafting1.0.iml" />
+    </modules>
+  </component>
+</project>
